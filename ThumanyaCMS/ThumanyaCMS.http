@@ -1,0 +1,6 @@
+@ThumanyaCMS_HostAddress = http://localhost:5242
+
+GET {{ThumanyaCMS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
